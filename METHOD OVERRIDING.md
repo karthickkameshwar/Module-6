@@ -34,8 +34,8 @@ To write a Python program to create a Parent class `Bird` and inherit two child 
 ### PROGRAM
 
 ```python
-#Reg no-212222060013
-#Name- AKSHAIYAN S
+#Reg no-212222060115
+#Name- Karthickkameshwar S
 
 class Bird:
     def intro(self):
